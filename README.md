@@ -19,9 +19,9 @@ Then used the instructions from here: https://gridsome.org/docs/guide-netlify-cm
 ### 3. Deployment with Netlify
 
 1. Sign up for Netlify: netlify.com
-2. Add a new site
-![New Site from Git](https://raw.githubusercontent.com/rajivkaggarwal/gridsome-netlify-cms-template/master/readme_content/new_site.png)
-3. Use GitHub
-![Choose GitHub](https://raw.githubusercontent.com/rajivkaggarwal/gridsome-netlify-cms-template/master/readme_content/choose_github.png)
-4. Specify `npm run build` and `dist`
-![Choose GitHub](https://raw.githubusercontent.com/rajivkaggarwal/gridsome-netlify-cms-template/master/readme_content/specify_build_dist.png)
+2. Add a new site<br/>
+![New Site from Git](readme_content/new_site.png)
+3. Use GitHub<br/>
+![Choose GitHub](readme_content/choose_github.png)
+4. Specify `npm run build` and `dist`<br/>
+![Choose GitHub](readme_content/specify_build_dist.png)
