@@ -4,7 +4,7 @@ Started by running `gridsome create gridsome-netlify-cms-template`.
 
 Then used the instructions from here: https://gridsome.org/docs/guide-netlify-cms/
 
-### To run locally
+### 1. To run locally
 
 `gridsome develop`
 
