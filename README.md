@@ -16,3 +16,12 @@ Then used the instructions from here: https://gridsome.org/docs/guide-netlify-cm
 4. In `src/admin/config.yml` you'll need to change the `name` and `repo` under `backend` for your repo
 5. Follow this instructions to enable Netlify CMS authentication via GitHub: https://gridsome.org/docs/guide-netlify-cms/#netlify-cms-authentication-with-github
 
+### 3. Deployment with Netlify
+
+1. Sign up for Netlify: netlify.com
+2. Add a new site
+![New Site from Git](https://raw.githubusercontent.com/rajivkaggarwal/gridsome-netlify-cms-template/master/readme_content/new_site.png)
+3. Use GitHub
+![Choose GitHub](https://raw.githubusercontent.com/rajivkaggarwal/gridsome-netlify-cms-template/master/readme_content/choose_github.png)
+4. Specify `npm run build` and `dist`
+![Choose GitHub](https://raw.githubusercontent.com/rajivkaggarwal/gridsome-netlify-cms-template/master/readme_content/specify_build_dist.png)
