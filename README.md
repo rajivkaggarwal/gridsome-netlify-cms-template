@@ -1,4 +1,4 @@
-# Default starter for Gridsome + Netflify + Netlify CMS
+# Default starter for Gridsome + Netlify + Netlify CMS
 
 Started by running `gridsome create gridsome-netlify-cms-template`.
 
